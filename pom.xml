@@ -6,7 +6,7 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>3.1.1</version>
-        <relativePath/> <!-- lookup parent from repository -->
+        <relativePath>../xuecheng_plus_parent</relativePath>
     </parent>
     <groupId>com.comxuecheng_plus_base</groupId>
     <artifactId>comxuecheng_plus_base</artifactId>
